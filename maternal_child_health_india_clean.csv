@@ -1,0 +1,301 @@
+Country,State,Year,Age_Group,Maternal_Mortality_Rate,Infant_Mortality_Rate,Under5_Mortality_Rate,Immunization_Coverage,Health_Expenditure_PerCapita,Urban_Rural
+India,Telangana,2018,<1 year,162,43,51,80,6691,Urban
+India,Telangana,2018,<1 year,270,37,41,80,4944,Rural
+India,Telangana,2018,1-5 years,209,16,25,81,3933,Urban
+India,Telangana,2018,1-5 years,263,36,42,81,4404,Rural
+India,Telangana,2018,15-49 years,229,42,47,85,3306,Urban
+India,Telangana,2018,15-49 years,110,58,66,,3028,Rural
+India,Telangana,2019,<1 year,80,23,31,87,3935,Urban
+India,Telangana,2019,<1 year,68,40,46,71,2863,Rural
+India,Telangana,2019,1-5 years,231,22,30,72,4652,Urban
+India,Telangana,2019,1-5 years,61,20,27,79,5343,Rural
+India,Telangana,2019,15-49 years,277,58,61,79,3481,Urban
+India,Telangana,2019,15-49 years,74,22,29,,2775,Rural
+India,Telangana,2020,<1 year,267,59,62,84,2576,Urban
+India,Telangana,2020,<1 year,247,59,61,84,5384,Rural
+India,Telangana,2020,1-5 years,147,15,20,,2995,Urban
+India,Telangana,2020,1-5 years,195,49,53,70,5974,Rural
+India,Telangana,2020,15-49 years,100,42,50,78,6375,Urban
+India,Telangana,2020,15-49 years,210,38,44,72,4231,Rural
+India,Telangana,2021,<1 year,252,49,55,84,4190,Urban
+India,Telangana,2021,<1 year,,53,57,78,1706,Rural
+India,Telangana,2021,1-5 years,264,46,54,86,2063,Urban
+India,Telangana,2021,1-5 years,288,37,45,82,3178,Rural
+India,Telangana,2021,15-49 years,219,21,25,88,4657,Urban
+India,Telangana,2021,15-49 years,121,20,25,97,5127,Rural
+India,Telangana,2022,<1 year,187,42,44,76,3737,Urban
+India,Telangana,2022,<1 year,249,27,29,72,2209,Rural
+India,Telangana,2022,1-5 years,224,47,51,79,6279,Urban
+India,Telangana,2022,1-5 years,219,46,55,78,5263,Rural
+India,Telangana,2022,15-49 years,111,26,33,76,4957,Urban
+India,Telangana,2022,15-49 years,243,31,35,86,5597,Rural
+India,Andhra Pradesh,2018,<1 year,288,46,48,70,4974,Urban
+India,Andhra Pradesh,2018,<1 year,277,46,53,92,6431,Rural
+India,Andhra Pradesh,2018,1-5 years,204,52,61,74,4431,Urban
+India,Andhra Pradesh,2018,1-5 years,299,30,32,78,2647,Rural
+India,Andhra Pradesh,2018,15-49 years,62,34,39,96,2869,Urban
+India,Andhra Pradesh,2018,15-49 years,155,21,26,78,4476,Rural
+India,Andhra Pradesh,2019,<1 year,163,15,19,97,5561,Urban
+India,Andhra Pradesh,2019,<1 year,203,40,49,94,5143,Rural
+India,Andhra Pradesh,2019,1-5 years,199,19,25,96,3556,Urban
+India,Andhra Pradesh,2019,1-5 years,267,17,22,93,4691,Rural
+India,Andhra Pradesh,2019,15-49 years,,22,27,75,5699,Urban
+India,Andhra Pradesh,2019,15-49 years,276,49,51,87,6473,Rural
+India,Andhra Pradesh,2020,<1 year,267,55,60,70,5993,Urban
+India,Andhra Pradesh,2020,<1 year,187,22,30,72,5996,Rural
+India,Andhra Pradesh,2020,1-5 years,246,36,44,91,3193,Urban
+India,Andhra Pradesh,2020,1-5 years,241,22,26,96,1725,Rural
+India,Andhra Pradesh,2020,15-49 years,,47,53,97,2315,Urban
+India,Andhra Pradesh,2020,15-49 years,108,31,36,97,3705,Rural
+India,Andhra Pradesh,2021,<1 year,158,55,61,93,4920,Urban
+India,Andhra Pradesh,2021,<1 year,158,47,52,90,4475,Rural
+India,Andhra Pradesh,2021,1-5 years,187,32,34,79,2069,Urban
+India,Andhra Pradesh,2021,1-5 years,173,46,54,91,3186,Rural
+India,Andhra Pradesh,2021,15-49 years,189,40,42,77,5841,Urban
+India,Andhra Pradesh,2021,15-49 years,85,49,52,94,3955,Rural
+India,Andhra Pradesh,2022,<1 year,116,50,56,89,3868,Urban
+India,Andhra Pradesh,2022,<1 year,201,26,30,92,2666,Rural
+India,Andhra Pradesh,2022,1-5 years,274,36,40,94,5269,Urban
+India,Andhra Pradesh,2022,1-5 years,117,36,38,89,6277,Rural
+India,Andhra Pradesh,2022,15-49 years,247,51,53,77,4624,Urban
+India,Andhra Pradesh,2022,15-49 years,162,18,25,82,2491,Rural
+India,Karnataka,2018,<1 year,114,54,59,85,5864,Urban
+India,Karnataka,2018,<1 year,206,31,40,88,5175,Rural
+India,Karnataka,2018,1-5 years,277,37,45,78,3431,Urban
+India,Karnataka,2018,1-5 years,60,48,57,91,2059,Rural
+India,Karnataka,2018,15-49 years,188,30,36,76,6299,Urban
+India,Karnataka,2018,15-49 years,,26,29,85,5006,Rural
+India,Karnataka,2019,<1 year,265,42,48,84,6604,Urban
+India,Karnataka,2019,<1 year,256,26,35,95,3979,Rural
+India,Karnataka,2019,1-5 years,,51,59,95,4349,Urban
+India,Karnataka,2019,1-5 years,206,46,48,93,2848,Rural
+India,Karnataka,2019,15-49 years,139,16,18,97,2395,Urban
+India,Karnataka,2019,15-49 years,199,49,54,70,5500,Rural
+India,Karnataka,2020,<1 year,71,17,19,70,6787,Urban
+India,Karnataka,2020,<1 year,200,26,34,,5469,Rural
+India,Karnataka,2020,1-5 years,274,31,34,77,3125,Urban
+India,Karnataka,2020,1-5 years,,18,21,90,3016,Rural
+India,Karnataka,2020,15-49 years,276,35,41,94,2175,Urban
+India,Karnataka,2020,15-49 years,251,49,51,72,5579,Rural
+India,Karnataka,2021,<1 year,155,38,46,74,5351,Urban
+India,Karnataka,2021,<1 year,276,49,51,86,5452,Rural
+India,Karnataka,2021,1-5 years,145,27,31,88,1895,Urban
+India,Karnataka,2021,1-5 years,68,21,26,83,4282,Rural
+India,Karnataka,2021,15-49 years,170,30,36,74,5991,Urban
+India,Karnataka,2021,15-49 years,287,37,46,94,2562,Rural
+India,Karnataka,2022,<1 year,226,28,36,95,2656,Urban
+India,Karnataka,2022,<1 year,134,32,40,81,2453,Rural
+India,Karnataka,2022,1-5 years,66,27,36,79,4493,Urban
+India,Karnataka,2022,1-5 years,88,51,58,88,5219,Rural
+India,Karnataka,2022,15-49 years,204,21,23,82,2655,Urban
+India,Karnataka,2022,15-49 years,78,58,65,76,5686,Rural
+India,Kerala,2018,<1 year,106,17,23,87,2743,Urban
+India,Kerala,2018,<1 year,111,17,25,78,3458,Rural
+India,Kerala,2018,1-5 years,101,13,21,97,4940,Urban
+India,Kerala,2018,1-5 years,,14,19,82,3352,Rural
+India,Kerala,2018,15-49 years,114,16,22,73,2750,Urban
+India,Kerala,2018,15-49 years,86,13,15,83,6762,Rural
+India,Kerala,2019,<1 year,42,11,13,80,6631,Urban
+India,Kerala,2019,<1 year,115,12,17,90,6627,Rural
+India,Kerala,2019,1-5 years,47,14,19,87,2039,Urban
+India,Kerala,2019,1-5 years,103,15,22,86,6820,Rural
+India,Kerala,2019,15-49 years,68,17,24,72,4824,Urban
+India,Kerala,2019,15-49 years,108,19,21,71,1509,Rural
+India,Kerala,2020,<1 year,44,11,20,70,5969,Urban
+India,Kerala,2020,<1 year,88,15,21,95,5658,Rural
+India,Kerala,2020,1-5 years,88,17,19,71,3652,Urban
+India,Kerala,2020,1-5 years,94,10,15,86,4256,Rural
+India,Kerala,2020,15-49 years,92,11,17,90,4224,Urban
+India,Kerala,2020,15-49 years,117,13,20,70,5646,Rural
+India,Kerala,2021,<1 year,,5,14,71,4919,Urban
+India,Kerala,2021,<1 year,73,10,17,72,5462,Rural
+India,Kerala,2021,1-5 years,44,18,25,96,3348,Urban
+India,Kerala,2021,1-5 years,62,19,25,90,5481,Rural
+India,Kerala,2021,15-49 years,77,16,19,75,2829,Urban
+India,Kerala,2021,15-49 years,90,19,22,89,5844,Rural
+India,Kerala,2022,<1 year,69,11,14,88,3628,Urban
+India,Kerala,2022,<1 year,,5,8,86,5079,Rural
+India,Kerala,2022,1-5 years,45,9,12,82,5318,Urban
+India,Kerala,2022,1-5 years,62,11,20,80,4945,Rural
+India,Kerala,2022,15-49 years,43,12,14,72,3387,Urban
+India,Kerala,2022,15-49 years,89,17,20,88,6624,Rural
+India,Tamil Nadu,2018,<1 year,61,9,16,70,2023,Urban
+India,Tamil Nadu,2018,<1 year,117,14,20,96,3796,Rural
+India,Tamil Nadu,2018,1-5 years,95,18,22,,5144,Urban
+India,Tamil Nadu,2018,1-5 years,47,5,9,89,4266,Rural
+India,Tamil Nadu,2018,15-49 years,53,14,19,92,3625,Urban
+India,Tamil Nadu,2018,15-49 years,53,15,24,88,6626,Rural
+India,Tamil Nadu,2019,<1 year,57,14,21,72,3406,Urban
+India,Tamil Nadu,2019,<1 year,67,14,22,94,2796,Rural
+India,Tamil Nadu,2019,1-5 years,83,13,15,82,4783,Urban
+India,Tamil Nadu,2019,1-5 years,57,19,24,84,2993,Rural
+India,Tamil Nadu,2019,15-49 years,81,13,19,75,4239,Urban
+India,Tamil Nadu,2019,15-49 years,,15,21,75,5312,Rural
+India,Tamil Nadu,2020,<1 year,60,10,17,92,4063,Urban
+India,Tamil Nadu,2020,<1 year,63,11,13,,1742,Rural
+India,Tamil Nadu,2020,1-5 years,63,19,26,71,1967,Urban
+India,Tamil Nadu,2020,1-5 years,45,10,12,93,6542,Rural
+India,Tamil Nadu,2020,15-49 years,114,12,15,88,2641,Urban
+India,Tamil Nadu,2020,15-49 years,59,5,10,84,3548,Rural
+India,Tamil Nadu,2021,<1 year,76,18,22,73,3526,Urban
+India,Tamil Nadu,2021,<1 year,49,9,17,79,3719,Rural
+India,Tamil Nadu,2021,1-5 years,104,19,25,78,4332,Urban
+India,Tamil Nadu,2021,1-5 years,77,11,15,86,3104,Rural
+India,Tamil Nadu,2021,15-49 years,117,9,18,80,6756,Urban
+India,Tamil Nadu,2021,15-49 years,40,12,21,91,5143,Rural
+India,Tamil Nadu,2022,<1 year,53,16,23,72,6320,Urban
+India,Tamil Nadu,2022,<1 year,117,14,21,73,2100,Rural
+India,Tamil Nadu,2022,1-5 years,79,12,20,77,5097,Urban
+India,Tamil Nadu,2022,1-5 years,62,19,27,70,4212,Rural
+India,Tamil Nadu,2022,15-49 years,105,18,24,77,3651,Urban
+India,Tamil Nadu,2022,15-49 years,45,7,15,88,6908,Rural
+India,Maharashtra,2018,<1 year,223,43,50,94,2620,Urban
+India,Maharashtra,2018,<1 year,92,18,25,71,6112,Rural
+India,Maharashtra,2018,1-5 years,97,27,35,84,4728,Urban
+India,Maharashtra,2018,1-5 years,127,26,32,71,1594,Rural
+India,Maharashtra,2018,15-49 years,85,57,61,74,5606,Urban
+India,Maharashtra,2018,15-49 years,193,22,30,84,1845,Rural
+India,Maharashtra,2019,<1 year,200,54,61,87,2484,Urban
+India,Maharashtra,2019,<1 year,,26,31,73,6943,Rural
+India,Maharashtra,2019,1-5 years,186,56,58,97,4949,Urban
+India,Maharashtra,2019,1-5 years,265,54,56,91,3292,Rural
+India,Maharashtra,2019,15-49 years,169,50,57,92,4372,Urban
+India,Maharashtra,2019,15-49 years,174,54,62,90,5002,Rural
+India,Maharashtra,2020,<1 year,239,40,42,72,2074,Urban
+India,Maharashtra,2020,<1 year,97,16,24,87,1974,Rural
+India,Maharashtra,2020,1-5 years,230,58,62,88,2705,Urban
+India,Maharashtra,2020,1-5 years,257,38,40,86,5880,Rural
+India,Maharashtra,2020,15-49 years,215,35,37,76,6444,Urban
+India,Maharashtra,2020,15-49 years,177,36,41,77,5922,Rural
+India,Maharashtra,2021,<1 year,274,33,40,86,6024,Urban
+India,Maharashtra,2021,<1 year,78,32,34,83,6990,Rural
+India,Maharashtra,2021,1-5 years,279,44,51,88,6426,Urban
+India,Maharashtra,2021,1-5 years,114,53,57,79,2981,Rural
+India,Maharashtra,2021,15-49 years,284,37,45,97,3323,Urban
+India,Maharashtra,2021,15-49 years,124,17,26,92,3990,Rural
+India,Maharashtra,2022,<1 year,298,51,55,88,5175,Urban
+India,Maharashtra,2022,<1 year,155,38,45,93,4038,Rural
+India,Maharashtra,2022,1-5 years,241,35,42,92,2443,Urban
+India,Maharashtra,2022,1-5 years,220,37,43,88,5195,Rural
+India,Maharashtra,2022,15-49 years,247,32,35,70,5094,Urban
+India,Maharashtra,2022,15-49 years,274,26,31,74,2304,Rural
+India,Bihar,2018,<1 year,285,58,62,71,2887,Urban
+India,Bihar,2018,<1 year,179,37,46,81,4268,Rural
+India,Bihar,2018,1-5 years,68,54,57,74,4930,Urban
+India,Bihar,2018,1-5 years,297,18,21,78,4680,Rural
+India,Bihar,2018,15-49 years,129,32,41,70,3589,Urban
+India,Bihar,2018,15-49 years,76,51,53,61,3122,Rural
+India,Bihar,2019,<1 year,86,45,52,76,5763,Urban
+India,Bihar,2019,<1 year,112,21,24,66,4469,Rural
+India,Bihar,2019,1-5 years,105,16,21,50,4366,Urban
+India,Bihar,2019,1-5 years,88,35,39,60,2636,Rural
+India,Bihar,2019,15-49 years,113,48,56,73,6353,Urban
+India,Bihar,2019,15-49 years,95,34,38,84,5420,Rural
+India,Bihar,2020,<1 year,285,23,26,51,3024,Urban
+India,Bihar,2020,<1 year,188,39,45,74,6658,Rural
+India,Bihar,2020,1-5 years,167,58,62,79,5697,Urban
+India,Bihar,2020,1-5 years,103,31,34,61,2841,Rural
+India,Bihar,2020,15-49 years,282,35,37,72,3921,Urban
+India,Bihar,2020,15-49 years,269,39,44,64,5142,Rural
+India,Bihar,2021,<1 year,106,46,49,65,6306,Urban
+India,Bihar,2021,<1 year,145,21,28,64,2128,Rural
+India,Bihar,2021,1-5 years,131,37,43,67,4794,Urban
+India,Bihar,2021,1-5 years,205,56,64,66,2682,Rural
+India,Bihar,2021,15-49 years,104,48,52,75,5778,Urban
+India,Bihar,2021,15-49 years,179,18,24,71,2420,Rural
+India,Bihar,2022,<1 year,296,56,61,51,1810,Urban
+India,Bihar,2022,<1 year,,27,30,81,5310,Rural
+India,Bihar,2022,1-5 years,88,43,50,65,5011,Urban
+India,Bihar,2022,1-5 years,,39,47,69,5984,Rural
+India,Bihar,2022,15-49 years,232,28,37,79,3533,Urban
+India,Bihar,2022,15-49 years,212,15,21,64,4132,Rural
+India,Uttar Pradesh,2018,<1 year,255,26,30,55,2306,Urban
+India,Uttar Pradesh,2018,<1 year,70,27,30,74,6367,Rural
+India,Uttar Pradesh,2018,1-5 years,,59,66,59,5821,Urban
+India,Uttar Pradesh,2018,1-5 years,62,20,26,54,1553,Rural
+India,Uttar Pradesh,2018,15-49 years,158,34,37,84,4237,Urban
+India,Uttar Pradesh,2018,15-49 years,62,46,50,62,2392,Rural
+India,Uttar Pradesh,2019,<1 year,201,51,54,60,3140,Urban
+India,Uttar Pradesh,2019,<1 year,88,23,27,,2855,Rural
+India,Uttar Pradesh,2019,1-5 years,,19,23,83,2483,Urban
+India,Uttar Pradesh,2019,1-5 years,192,40,43,55,1536,Rural
+India,Uttar Pradesh,2019,15-49 years,256,27,29,81,1817,Urban
+India,Uttar Pradesh,2019,15-49 years,115,54,57,76,3496,Rural
+India,Uttar Pradesh,2020,<1 year,206,30,39,77,3204,Urban
+India,Uttar Pradesh,2020,<1 year,240,56,61,76,3969,Rural
+India,Uttar Pradesh,2020,1-5 years,104,45,53,59,4219,Urban
+India,Uttar Pradesh,2020,1-5 years,,32,37,51,2088,Rural
+India,Uttar Pradesh,2020,15-49 years,283,27,34,76,2636,Urban
+India,Uttar Pradesh,2020,15-49 years,157,38,44,84,2507,Rural
+India,Uttar Pradesh,2021,<1 year,133,55,64,83,5402,Urban
+India,Uttar Pradesh,2021,<1 year,96,43,50,53,3387,Rural
+India,Uttar Pradesh,2021,1-5 years,251,31,36,71,2385,Urban
+India,Uttar Pradesh,2021,1-5 years,269,28,37,78,6311,Rural
+India,Uttar Pradesh,2021,15-49 years,184,26,34,78,2406,Urban
+India,Uttar Pradesh,2021,15-49 years,219,25,28,72,5109,Rural
+India,Uttar Pradesh,2022,<1 year,63,31,35,62,1538,Urban
+India,Uttar Pradesh,2022,<1 year,134,46,49,63,4655,Rural
+India,Uttar Pradesh,2022,1-5 years,140,58,67,77,2488,Urban
+India,Uttar Pradesh,2022,1-5 years,246,34,41,68,6165,Rural
+India,Uttar Pradesh,2022,15-49 years,248,49,58,74,2291,Urban
+India,Uttar Pradesh,2022,15-49 years,267,41,50,74,5176,Rural
+India,Madhya Pradesh,2018,<1 year,233,21,25,81,2192,Urban
+India,Madhya Pradesh,2018,<1 year,207,29,31,83,4844,Rural
+India,Madhya Pradesh,2018,1-5 years,68,52,61,94,6609,Urban
+India,Madhya Pradesh,2018,1-5 years,131,25,34,,4268,Rural
+India,Madhya Pradesh,2018,15-49 years,123,32,39,84,6202,Urban
+India,Madhya Pradesh,2018,15-49 years,276,47,52,,4996,Rural
+India,Madhya Pradesh,2019,<1 year,,55,57,81,4436,Urban
+India,Madhya Pradesh,2019,<1 year,,36,41,89,4220,Rural
+India,Madhya Pradesh,2019,1-5 years,156,16,18,70,5544,Urban
+India,Madhya Pradesh,2019,1-5 years,213,36,44,71,1589,Rural
+India,Madhya Pradesh,2019,15-49 years,285,56,64,81,6924,Urban
+India,Madhya Pradesh,2019,15-49 years,182,20,22,75,4644,Rural
+India,Madhya Pradesh,2020,<1 year,173,26,35,77,3213,Urban
+India,Madhya Pradesh,2020,<1 year,170,21,25,89,1707,Rural
+India,Madhya Pradesh,2020,1-5 years,213,17,25,78,6469,Urban
+India,Madhya Pradesh,2020,1-5 years,71,37,42,82,3060,Rural
+India,Madhya Pradesh,2020,15-49 years,114,50,56,77,5304,Urban
+India,Madhya Pradesh,2020,15-49 years,110,58,61,75,2161,Rural
+India,Madhya Pradesh,2021,<1 year,118,17,22,79,2254,Urban
+India,Madhya Pradesh,2021,<1 year,250,29,31,76,6951,Rural
+India,Madhya Pradesh,2021,1-5 years,245,38,43,74,6111,Urban
+India,Madhya Pradesh,2021,1-5 years,,38,41,86,6203,Rural
+India,Madhya Pradesh,2021,15-49 years,157,50,53,84,2941,Urban
+India,Madhya Pradesh,2021,15-49 years,174,26,30,82,2029,Rural
+India,Madhya Pradesh,2022,<1 year,158,40,49,73,6073,Urban
+India,Madhya Pradesh,2022,<1 year,137,16,24,74,5505,Rural
+India,Madhya Pradesh,2022,1-5 years,119,28,37,76,4655,Urban
+India,Madhya Pradesh,2022,1-5 years,,39,41,97,3613,Rural
+India,Madhya Pradesh,2022,15-49 years,252,54,59,93,5896,Urban
+India,Madhya Pradesh,2022,15-49 years,69,17,24,83,4139,Rural
+India,Gujarat,2018,<1 year,153,55,57,74,3860,Urban
+India,Gujarat,2018,<1 year,180,57,63,84,3712,Rural
+India,Gujarat,2018,1-5 years,115,42,50,84,3425,Urban
+India,Gujarat,2018,1-5 years,,28,31,78,2816,Rural
+India,Gujarat,2018,15-49 years,178,49,56,74,5328,Urban
+India,Gujarat,2018,15-49 years,238,28,33,79,1775,Rural
+India,Gujarat,2019,<1 year,102,48,50,87,5368,Urban
+India,Gujarat,2019,<1 year,,57,60,92,6913,Rural
+India,Gujarat,2019,1-5 years,104,30,33,79,2391,Urban
+India,Gujarat,2019,1-5 years,188,22,28,75,6112,Rural
+India,Gujarat,2019,15-49 years,252,40,44,79,4985,Urban
+India,Gujarat,2019,15-49 years,195,54,56,81,2486,Rural
+India,Gujarat,2020,<1 year,92,15,19,85,4624,Urban
+India,Gujarat,2020,<1 year,249,42,45,,2203,Rural
+India,Gujarat,2020,1-5 years,228,39,48,82,4132,Urban
+India,Gujarat,2020,1-5 years,262,18,21,75,6089,Rural
+India,Gujarat,2020,15-49 years,285,32,38,78,2350,Urban
+India,Gujarat,2020,15-49 years,113,21,23,90,5226,Rural
+India,Gujarat,2021,<1 year,202,35,39,97,2940,Urban
+India,Gujarat,2021,<1 year,231,52,55,80,4515,Rural
+India,Gujarat,2021,1-5 years,233,23,27,90,5365,Urban
+India,Gujarat,2021,1-5 years,215,43,46,94,1511,Rural
+India,Gujarat,2021,15-49 years,266,58,63,84,1542,Urban
+India,Gujarat,2021,15-49 years,167,57,63,90,1906,Rural
+India,Gujarat,2022,<1 year,176,29,31,73,2214,Urban
+India,Gujarat,2022,<1 year,200,36,40,71,6953,Rural
+India,Gujarat,2022,1-5 years,111,41,47,84,6775,Urban
+India,Gujarat,2022,1-5 years,223,44,47,71,5516,Rural
+India,Gujarat,2022,15-49 years,153,25,33,81,6658,Urban
+India,Gujarat,2022,15-49 years,115,56,62,79,6547,Rural
